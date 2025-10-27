@@ -1,0 +1,7 @@
+[2025-10-27 07:53:10] Running file integrity check...
+[OK] No changes detected.
+----------------------------------------
+[2025-10-27 07:56:12] Running file integrity check...
+[!] Modified files:
+    /home/ovi/Documents/fim/monitored/important.conf
+----------------------------------------
